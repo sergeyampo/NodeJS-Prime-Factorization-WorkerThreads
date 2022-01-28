@@ -1,0 +1,15 @@
+{
+  "name": "miet-testing-lab-6",
+  "version": "0.0.1",
+  "description": "Prime multipliers profiling",
+  "main": "sequence.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sergeyampo",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.12",
+    "typescript": "^4.5.5"
+  }
+}
